@@ -1,4 +1,3 @@
-# Abgabe Gruppe Christoph Sturzenegger, Florian Schütz, Jan Villiger
 #===========================================================================#
 #                                                                           #
 #  Copyright (C) 2006 - 2018                                                #
